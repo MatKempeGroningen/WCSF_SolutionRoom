@@ -1,3 +1,4 @@
+![logoGro](https://github.com/MatKempeGroningen/WCSF_SolutionRoom/assets/60000189/11eba4e0-6a10-4074-9b13-d0e0fea149a4)
 # WCSF_SolutionRoom
 Repository connected to the Solution Room of the WSCF 2023 in Groningen. Contains a prepocessed data sample of football (soccer) player tracking data, plus some basic variables derived from the sample
 
