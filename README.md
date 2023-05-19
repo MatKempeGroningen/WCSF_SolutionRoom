@@ -2,7 +2,7 @@
 Repository connected to the Solution Room of the WSCF 2023 in Groningen. Contains a prepocessed data sample of football (soccer) player tracking data, plus some basic variables derived from the sample
 
 ## Data Guide
-The dataset folder in this repo contains pre-processing position tracking data and derived aggregated data from a single match. The dataset has been collected a couple of seasons ago in a match player in a professional european football league, and has been made anonymous for research purposes. The following files are provided for a match:
+The dataset folder in this repo contains pre-processed position tracking data and derived aggregated data from a single match. The dataset has been collected a couple of seasons ago from an offical match played in a professional european football league, and has been made anonymous for research purposes. The following files are provided for a match:
 - `positions.csv`
 - `physical_kpis_home.csv`
 - `physical_kpis_away.csv`
