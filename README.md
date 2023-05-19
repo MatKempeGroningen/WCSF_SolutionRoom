@@ -8,6 +8,9 @@ Data has been collected retrospectively for research purposes in scope of the sc
 ## Data Processing
 Data has been collected & curated by the University of Groningen, and is currently being managed by Assistant Professor Dr. Matthias Kempe. Within the scope of this project, SciSports B.V. acts as a data processing partner and has delivered the preprocessed data and aggregated features by processing the data on behalf of the university for the purposes of this Solution Room.
 
+## Future and publications
+We will try to regularly add additional matches. We appreciate citations of the data source if the data is used for any publication. 
+
 ## Support
 
 For support, reach out to us on twitter:
