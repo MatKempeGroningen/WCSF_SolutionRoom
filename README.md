@@ -69,3 +69,6 @@ The data model is as follows:
 - `centroid_x` (float) >>> average position in the x-axis (see Positions file for more info on the coordinate system)
 - `centroid_y` (float) >>> average position in the y-axis (see Positions file for more info on the coordinate system)
 
+For the basic idea on how to automatically detect formations and allocate players to a line see:
+Goes, F.R., Brink M.S., Elferink-Gemser, M.T., Kempe, M. & Lemmink, K.A.P.M. (2020). The tactics of successful attacks in professional soccer: large-scale spatiotemporal analy-sis of dynamic subgroups using position tracking data. Journal of Sport Science 
+
